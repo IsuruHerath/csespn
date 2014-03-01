@@ -38,7 +38,7 @@
     <div id="header">
             <div class="container clearfix">
                 <div id="logo">
-                    <a href="index.html"><img src="img/logo.jpg" /></a>
+                    <a href="index.php"><img src="img/logo.jpg" /></a>
                 </div>              
             </div>
         </div>
